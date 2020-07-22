@@ -12,7 +12,7 @@ There are also a number of semi-official guides linked from [Idiomatic Go Resour
 * [bahlo/go-styleguide](https://github.com/bahlo/go-styleguide)
 * [Thanos](https://thanos.io/contributing/coding-style-guide.md/)
 * [magnetico](https://github.com/boramalper/magnetico/wiki/magnetico-Design-Specification)
-* [Hyperledger](https://github.com/hyperledger/fabric/blob/release-1.4/docs/source/Style-guides/go-style.rst)
+* [Hyperledger](https://github.com/hyperledger/fabric/blob/release-1.4/docs/source/style-guides/go-style.rst)
 * [CockroachDB](https://github.com/cockroachdb/cockroach/blob/master/docs/style.md)
 
 General tips for Code Reviews:
