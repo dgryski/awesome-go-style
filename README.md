@@ -1,3 +1,6 @@
+
+** This is also part of avelino/awesome-go: https://github.com/avelino/awesome-go#style-guides **
+
 This is a collection of style guides for Go.
 
 Be sure to read about [writing engineering
