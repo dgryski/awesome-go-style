@@ -18,6 +18,7 @@ There are also a number of semi-official guides linked from [Idiomatic Go Resour
 * [Sourcegraph](https://about.sourcegraph.com/handbook/engineering/go_style_guide)
 * [Thanos](https://thanos.io/contributing/coding-style-guide.md/)
 * [Uber](https://github.com/uber-go/guide/blob/master/style.md)
+* [Zen of Go](https://dave.cheney.net/2020/02/23/the-zen-of-go)
 
 General tips for Code Reviews:
 
