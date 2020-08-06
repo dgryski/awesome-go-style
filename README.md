@@ -24,3 +24,26 @@ General tips for Code Reviews:
 
 * [Vitess.io Code Reviews](https://vitess.io/docs/contributing/code-reviews/)
 * [Google Engineering Practices](https://google.github.io/eng-practices/)
+
+
+My own attempt at best practices for TODO comments (extracted from existing Go
+practices, but otherwise mostly undocumented):
+
+
+```
+// For TODOs, BUGs, and NOTEs please use the standard form:
+//
+//    // TODO(username): ...
+//
+// The username (generally yours) means "for more information see", not
+// "I claim responsibility for fixing this." Please use TODO rather than FIXME,
+// XXX, HACK, etc.  This limits the number of things to grep for.
+//
+//    * TODO denotes missing features or functionality
+//    * BUG denotes known broken code; these are displayed in godoc
+//    * NOTE is used to highlight a particularly important or subtle section of code
+//    * SECURITY and SECBUG are used for security related notes and issues
+```
+
+If you have a bug tracker, TODO(bug#) is probalby more useful as they're likely
+to stay static while maintainers move over time.
