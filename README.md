@@ -9,6 +9,7 @@ before trying to adopt one of these wholesale.
 
 ### The Classics
 
+* [Go Style (Google Style Guides)](https://google.github.io/styleguide/go/index)
 * [Effective Go](https://golang.org/doc/effective_go.html)
 * [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
 * [Go Proverbs](https://go-proverbs.github.io)
