@@ -48,12 +48,12 @@ before trying to adopt one of these wholesale.
 * [CockroachDB](https://github.com/cockroachdb/cockroach/blob/master/docs/style.md)
 * [Edge X Foundry](https://wiki.edgexfoundry.org/display/FA/Contributor%27s+Guide+-+Go+Lang)
 * [GitLab](https://docs.gitlab.com/ee/development/go_guide/)
+* [Google](https://google.github.io/styleguide/go/)
 * [Hyperledger](https://github.com/hyperledger/fabric/blob/release-1.4/docs/source/style-guides/go-style.rst)
 * [Magnetico](https://github.com/boramalper/magnetico/wiki/magnetico-Design-Specification)
 * [Sourcegraph](https://about.sourcegraph.com/handbook/engineering/go_style_guide)
 * [Thanos](https://thanos.io/tip/contributing/coding-style-guide.md/)
 * [Uber](https://github.com/uber-go/guide/blob/master/style.md)
-* [Google](https://google.github.io/styleguide/go/)
 
 General tips for Code Reviews:
 
