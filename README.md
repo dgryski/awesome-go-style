@@ -53,6 +53,7 @@ before trying to adopt one of these wholesale.
 * [Sourcegraph](https://about.sourcegraph.com/handbook/engineering/go_style_guide)
 * [Thanos](https://thanos.io/tip/contributing/coding-style-guide.md/)
 * [Uber](https://github.com/uber-go/guide/blob/master/style.md)
+* [Google](https://google.github.io/styleguide/go/)
 
 General tips for Code Reviews:
 
