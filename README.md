@@ -59,7 +59,7 @@ General tips for Code Reviews:
 
 * [Vitess.io Code Reviews](https://vitess.io/docs/contributing/code-reviews/)
 * [Google Engineering Practices](https://google.github.io/eng-practices/)
-
+* [How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/)
 
 My own attempt at best practices for TODO comments (extracted from existing Go
 practices, but otherwise mostly undocumented):
